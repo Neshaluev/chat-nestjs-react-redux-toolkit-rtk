@@ -11,6 +11,6 @@
 - TypeORM
 - Postgres
 - Jwt Authentication
-- Websoket
+- Websocket
 - Docker
 - Nginx
